@@ -8,6 +8,37 @@
 
 Checkout my [RESUME](https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/pdf/Resume.pdf)
 
+# Skills 🌟
+## Languages
+> Python, Java, C, C#, Bash Shell Scripting
+
+## RDBMS
+> Teradata, MySQL, Oracle
+
+## Web Technologies
+> HTML, CSS, Bootstrap, Javascript
+
+## Cloud Data warehouse
+> Snowflake
+
+## Data Visualization Tool
+> Tableau, PowerBI
+
+## Automated Tools
+> Autosys, Airflow
+
+## Stream Processing Platform
+> Apache Kafka
+
+# Currently Learning🎯
+
+👉 Data Science
+
+# Contact Me 📮
+<a href="mailto:sneha.vps888@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="sneha.vps888@gmail.com" height="25" width="35" /> [Email](mailto:sneha.vps888@gmail.com)
+
+<a href="https://www.linkedin.com/in/snehalatha-tuniki/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="snehalatha" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/snehalatha-tuniki/)
+
 <!--
 **snehalathatuniki/snehalathatuniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
