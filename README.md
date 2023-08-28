@@ -35,7 +35,7 @@ Checkout my [RESUME](https://github.com/snehalathatuniki/snehalathatuniki.github
 
 👉 Data Science
 
-# Contact Me 📮
+# Contact Me 📱
 <a href="mailto:sneha.vps888@gmail.com" target="blank"><img align="center" src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/images/Email.png?raw=true" alt="sneha.vps888@gmail.com" height="25" width="35" /> [Email](mailto:sneha.vps888@gmail.com)
 
 <a href="https://www.linkedin.com/in/snehalatha-tuniki/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="snehalatha" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/snehalatha-tuniki/)
