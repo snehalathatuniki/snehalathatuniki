@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalathatuniki&layout=compact)](https://github.com/snehalathatuniki/github-readme-stats)
 
-🔍 __About me:__  I am Snehalatha, I worked as a data analyst intern at [@MAQ Software](https://maqsoftware.com/), followed by a three-year tenure as a Data Engineer at [@TCS](https://www.tcs.com/). Currently, I am pursuing a career in Artificial Intelligence and Data Science at Loyalist College.  I am embarking on a journey into data science with a background in data engineering and business intelligence. So, naturally, I’m keen on extracting actionable insights from raw data.  I simplify complex processes to make them easier to comprehend. I consequently developed a growing passion for the World of Data and the solutions it holds.  I now intend to unlock them using new tools!
+🔍 __About me:__  
+I am Snehalatha, I worked as a data analyst intern at [@MAQ Software](https://maqsoftware.com/), followed by a three-year tenure as a Data Engineer at [@TCS](https://www.tcs.com/). Currently, I am pursuing a career in Artificial Intelligence and Data Science at Loyalist College.  I am embarking on a journey into data science with a background in data engineering and business intelligence. So, naturally, I’m keen on extracting actionable insights from raw data.  I simplify complex processes to make them easier to comprehend. I consequently developed a growing passion for the World of Data and the solutions it holds.  I now intend to unlock them using new tools!
 
 Checkout my [RESUME](https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/pdf/Resume.pdf)
 
