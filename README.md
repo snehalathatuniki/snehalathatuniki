@@ -1,7 +1,5 @@
 ## Hi there 👋 Thanks for stepping into my GitHub haven!
 
-![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=snehalathatuniki&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalathatuniki&layout=compact)](https://github.com/snehalathatuniki/github-readme-stats)
 
 🔍 __About me:__  
