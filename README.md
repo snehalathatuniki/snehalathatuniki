@@ -21,9 +21,13 @@ I’m eager to collaborate on groundbreaking projects that use AI to fuel innova
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-00C4CC?style=flat-square&logo=machine-learning&logoColor=white) ![GenAI](https://img.shields.io/badge/-GenAI-FF6F61?style=flat-square&logo=artificial-intelligence&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![SingleStore](https://img.shields.io/badge/-SingleStore-00A3E0?style=flat-square) ![Teradata](https://img.shields.io/badge/-Teradata-F28C38?style=flat-square) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Autosys](https://img.shields.io/badge/-Autosys-FF5733?style=flat-square) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ---
+### 🏆 Milestones  
+- **Dean’s List Honor** – Loyalist College, 2024  
+- **Performance Excellence Award** – TCS, 2022  
+- **TCS Digital Team Selection** – 2020  
+---
 
-👉 **Dive into my story**: [Resume](https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/pdf/Resume.pdf)
-
+### Dive into my story 👉 : [Resume](https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/pdf/Resume.pdf)
 ---
 ### 🚀 What I’ve Built
 #### At EZOFIS (AI Data Engineer, May 2024–Present)  
@@ -58,13 +62,6 @@ Got a project in mind? Let’s collaborate—reach out below!
   <a href="https://www.linkedin.com/in/snehalatha-tuniki/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="https://snehalathatuniki.github.io"><img src="https://img.shields.io/badge/-Portfolio-00C4B4?style=flat&logo=github-pages&logoColor=white" alt="Portfolio"></a>
 </div>
-
----
-
-### 🏆 Milestones  
-- **Dean’s List Honor** – Loyalist College, 2024  
-- **Performance Excellence Award** – TCS, 2022  
-- **TCS Digital Team Selection** – 2020  
 
 ---
 
