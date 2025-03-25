@@ -11,9 +11,11 @@
 <div align="center"> <h3><b>AI Engineer</b><h3></div>
 
 ### 🔍 About Me
-I’m an **AI Data Engineer** with over **3+ years** of experience building AI-powered applications, crafting scalable data pipelines, optimizing ETL workflows, and diving into the world of Artificial Intelligence. From my roots as a **Data Engineer at TCS (Apple Inc.)** to my current role at **EZOFIS** in Toronto, I’ve honed a passion for turning raw data into actionable insights using cutting-edge AI frameworks.  
+As an AI Engineer with more than three years of experience, I focus on developing AI-driven applications, creating scalable data pipelines, streamlining ETL processes, and harnessing the immense possibilities of Artificial Intelligence. My professional journey began as a Data Analyst at MAQ Software, where I honed my data skills, followed by a three-year tenure as a Data Engineer at TCS, contributing to significant projects for Apple Inc.
 
-I’ve completed my AI and Data Science Graduate Certification at Loyalist College, where I’ve combined my engineering background with expertise in machine learning and generative AI to create intelligent, innovative solutions. I’d love to connect and collaborate on something extraordinary!
+I’m currently advancing AI solutions at EZOFIS in Toronto. With a Graduate Certificate in AI and Data Science from Loyalist College, I integrate my engineering foundation with advanced knowledge in machine learning and generative AI, enabling me to turn raw data into meaningful insights using state-of-the-art AI tools.
+
+I’m eager to collaborate on groundbreaking projects that use AI to fuel innovation and achieve excellence. Let’s connect and build something extraordinary together!
 
 ## 🛠️ My Tech Arsenal
 Here’s what I bring to the table:
