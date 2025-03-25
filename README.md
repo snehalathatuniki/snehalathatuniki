@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C4B4&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I+am+Snehalatha!;Thank+you+for+visiting!+😊" alt="Typing SVG" />
 </div>
 
-
+---
 <div align="center"> <h3><b>AI Engineer</b><h3></div>
 
 ### 🔍 About Me
